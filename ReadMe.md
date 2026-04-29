@@ -6,11 +6,11 @@
 Dieses Projekt dient als Vorlage für ein kleines Softwareentwicklungs- und Projektmanagement-Projekt. Es enthält verschiedene Aufgaben, die jeweils in separaten Dateien bearbeitet werden.
 
 ## Aufgaben
-- Aufgabe5.py: [Kurze Beschreibung der Aufgabe]
-- Aufgabe6.py: [Kurze Beschreibung der Aufgabe]
-- Aufgabe7.py: [Kurze Beschreibung der Aufgabe]
-- Aufgabe8.py: [Kurze Beschreibung der Aufgabe]
-- Aufgabe9.py: [Kurze Beschreibung der Aufgabe]
+- Aufgabe5.py: [ Implementiert das Bisektionsverfahren zur Berechnung der Quadratwurzel. ]
+- Aufgabe6.py: [ Implementiert das Newton-Verfahren zur schnellen Nullstellensuche. ]
+- Aufgabe7.py: [ Visualisiert das Bisektionsverfahren und den Fehlerverlauf grafisch. ]
+- Aufgabe8.py: [ Wendet das Bisektionsverfahren auf eine komplexere Funktion an. ]
+- Aufgabe9.py: [ Vergleicht oder erweitert die Verfahren hinsichtlich Genauigkeit und Effizienz. ]
 
 ## Voraussetzungen
 - Python 3.x
